@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+
+    background-image: url("https://images8.alphacoders.com/934/934713.jpg");
+    max-width: 100%;
+    font-family: 'Open Sans', sans-serif;
+
+  }
+
+  button {
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+  }
+
+.nome-navbar {
+    color: white;
+    margin-bottom: auto;
+}
+
+.navbar-brand {
+    margin-left:10px;
+    color:white;   
+}
+
+.carousel-inner {
+    height: 550px;
+    margin-top: 10px;  
+}
+
+.carousel-item {
+    max-height: min-content;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+}
+
+.titulo_container {
+    color:white;
+    margin-top:20px;
+    margin-bottom:20px; 
+}
+
+.card-body {
+    background: #1c1c1c;
+    color: white;
+}
+
+.card-tittle {
+    color: white;
+}
+
+.titulo_pagina_dois {
+    color:white;
+    text-align:center;
+}
+
+.card-title_dois {
+    text-align: center;
+    color: white;
+}
+
+.card-text_dois {
+    color: white;
+    text-align: center;
+}
+
+.col-12 {
+    margin-top: 60px;
+}
+
+/*footer*/
+
+footer{
+    background-color:#1C1C1C;
+    padding-bottom: 1px;
+    position: relative;
+    margin-top: 20px;
+}
+
+footer img{
+    margin-top:12px;
+}
+.icon-github {
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+}
+
+.redesSociais__lista{
+    text-align: center;
+}
+
+.redesSociais__lista__item{
+    display: inline-block;
+    margin: 0 8px;
+}
+
+.redesSociais__lista__item img{
+    max-width: 25px;
+}
+
+.amaral-studios {
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
