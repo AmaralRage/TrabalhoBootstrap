@@ -99,6 +99,8 @@ footer img{
 .redesSociais__lista__item{
     display: inline-block;
     margin: 0 8px;
+    height: 40px;
+    width: 40px;
 }
 
 .redesSociais__lista__item img{
