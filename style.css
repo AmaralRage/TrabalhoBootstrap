@@ -88,9 +88,8 @@ footer img{
     margin-top:12px;
 }
 .icon-github {
-    border-radius: 10px;
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
 }
 
 .redesSociais__lista{
@@ -103,7 +102,7 @@ footer img{
 }
 
 .redesSociais__lista__item img{
-    max-width: 50px;
+    max-width: 30px;
 }
 
 .amaral-studios {
